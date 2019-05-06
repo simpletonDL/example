@@ -1,0 +1,19 @@
+train_auc|test_auc|valid_auc|train_fm_1|test_fm_1|valid_fm_1|train_fm_0|test_fm_0|valid_fm_0|max_depth|n_estimators|min_samples_leaf|train_rec0|test_rec0|valid_rec0|train_rec1|test_rec1|valid_rec1|params|features
+0.999999764293167|0.745634746327549|0.6098872633935644|0.9999966061595188|0.9868683114842748|0.9870964395026717|0.9998962476223413|0.1673486665725977|0.0||200|1|0.9999538851740835|0.0926200702850449|0.0|0.9999947207025387|0.9995875154681699|0.9999299312625686|{'n_estimators': 200, 'n_jobs': 8, 'verbose': 10, 'max_depth': None}|"Index(['Design-ModifiedCyclomaticComplexity',
+       'Code Style-CommentDefaultAccessModifier', 'Code Style-DefaultPackage',
+       'Error Prone-AvoidLiteralsInIfCondition', 'Code Style-OnlyOneReturn',
+       'Documentation-CommentSize', 'Documentation-CommentRequired',
+       'Performance-AvoidInstantiatingObjectsInLoops',
+       'Code Style-ControlStatementBraces', 'Code Style-LongVariable',
+       ...
+       'f29', 'f30', 'f31', 'f32', 'f33', 'f34', 'f35', 'f36', 'f37', 'f38'],
+      dtype='object', length=104)"
+0.9999977478689882|0.7476860527643093|0.6185047360807903|0.9994553945525134|0.9868521627674879|0.9871104517048305|0.9830619732508117|0.1641083681120464|0.0|30|200|1|0.9668664975789716|0.09058961343225302|0.0|0.9999939665171871|0.9996123096203564|0.9999579587575411|{'n_estimators': 200, 'n_jobs': 8, 'verbose': 10, 'max_depth': 30}|"Index(['Design-ModifiedCyclomaticComplexity',
+       'Code Style-CommentDefaultAccessModifier', 'Code Style-DefaultPackage',
+       'Error Prone-AvoidLiteralsInIfCondition', 'Code Style-OnlyOneReturn',
+       'Documentation-CommentSize', 'Documentation-CommentRequired',
+       'Performance-AvoidInstantiatingObjectsInLoops',
+       'Code Style-ControlStatementBraces', 'Code Style-LongVariable',
+       ...
+       'f29', 'f30', 'f31', 'f32', 'f33', 'f34', 'f35', 'f36', 'f37', 'f38'],
+      dtype='object', length=104)"

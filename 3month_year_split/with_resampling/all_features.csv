@@ -1,0 +1,64 @@
+'train_auc'|'test_auc'|'valid_auc'|'train_fm_1'|'test_fm_1'|'valid_fm_1'|'train_fm_0'|'test_fm_0'|'valid_fm_0'|'max_depth'|'n_estimators'|'min_samples_leaf'|'train_rec0'|'test_rec0'|'valid_rec0'|'train_rec1'|'test_rec1'|'valid_rec1'|'params'|'features'
+1.0|0.7654178544315495|0.6306020358080926|1.0|0.9786147642065657|0.9780731036363065|1.0|0.21371835181201387|0.07600530269553689||200|1|1.0|0.20171807887543927|0.06933619994625101|1.0|0.9802007424721573|0.980310684781771|{'n_estimators': 200, 'n_jobs': 8, 'verbose': 10, 'max_depth': None}|"Index(['Design-ModifiedCyclomaticComplexity',
+       'Code Style-CommentDefaultAccessModifier', 'Code Style-DefaultPackage',
+       'Error Prone-AvoidLiteralsInIfCondition', 'Code Style-OnlyOneReturn',
+       'Documentation-CommentSize', 'Documentation-CommentRequired',
+       'Performance-AvoidInstantiatingObjectsInLoops',
+       'Code Style-ControlStatementBraces', 'Code Style-LongVariable',
+       ...
+       'f29', 'f30', 'f31', 'f32', 'f33', 'f34', 'f35', 'f36', 'f37', 'f38'],
+      dtype='object', length=104)"
+0.9999999999999999|0.7653899638927666|0.6380044344867539|0.9999769420553852|0.9792417868871455|0.9789182505920073|0.9999769431186738|0.23322112787266758|0.08015848826577263|30|200|1|1.0|0.21913315111284654|0.07067992475141091|0.9999538851740835|0.9809490750654227|0.9819362794901799|{'n_estimators': 200, 'n_jobs': 8, 'verbose': 10, 'max_depth': 30}|"Index(['Design-ModifiedCyclomaticComplexity',
+       'Code Style-CommentDefaultAccessModifier', 'Code Style-DefaultPackage',
+       'Error Prone-AvoidLiteralsInIfCondition', 'Code Style-OnlyOneReturn',
+       'Documentation-CommentSize', 'Documentation-CommentRequired',
+       'Performance-AvoidInstantiatingObjectsInLoops',
+       'Code Style-ControlStatementBraces', 'Code Style-LongVariable',
+       ...
+       'f29', 'f30', 'f31', 'f32', 'f33', 'f34', 'f35', 'f36', 'f37', 'f38'],
+      dtype='object', length=104)"
+0.9999992647359437|0.77244601523108|0.63941832594857|0.9994463412383502|0.9784932313522996|0.977936420812692|0.9994469026548674|0.22908342414335878|0.07720426963006287|25|200|1|0.9999538851740835|0.22163217493166731|0.07094866971244289|0.9989393590039197|0.9794118376298594|0.9800023823370727|{'n_estimators': 200, 'n_jobs': 8, 'verbose': 10, 'max_depth': 25}|"Index(['Design-ModifiedCyclomaticComplexity',
+       'Code Style-CommentDefaultAccessModifier', 'Code Style-DefaultPackage',
+       'Error Prone-AvoidLiteralsInIfCondition', 'Code Style-OnlyOneReturn',
+       'Documentation-CommentSize', 'Documentation-CommentRequired',
+       'Performance-AvoidInstantiatingObjectsInLoops',
+       'Code Style-ControlStatementBraces', 'Code Style-LongVariable',
+       ...
+       'f29', 'f30', 'f31', 'f32', 'f33', 'f34', 'f35', 'f36', 'f37', 'f38'],
+      dtype='object', length=104)"
+0.9997361082542615|0.7688435649471199|0.6388252000178583|0.9924083981373422|0.9767025069380099|0.9746669800696738|0.9924428034093654|0.23131632843045988|0.07813098429720414|20|200|1|0.9946967950195988|0.24256149941429128|0.08223595807578608|0.9901544846668204|0.9753320725882616|0.9733318385336015|{'n_estimators': 200, 'n_jobs': 8, 'verbose': 10, 'max_depth': 20}|"Index(['Design-ModifiedCyclomaticComplexity',
+       'Code Style-CommentDefaultAccessModifier', 'Code Style-DefaultPackage',
+       'Error Prone-AvoidLiteralsInIfCondition', 'Code Style-OnlyOneReturn',
+       'Documentation-CommentSize', 'Documentation-CommentRequired',
+       'Performance-AvoidInstantiatingObjectsInLoops',
+       'Code Style-ControlStatementBraces', 'Code Style-LongVariable',
+       ...
+       'f29', 'f30', 'f31', 'f32', 'f33', 'f34', 'f35', 'f36', 'f37', 'f38'],
+      dtype='object', length=104)"
+0.9932322824621873|0.7725421150801366|0.6446289298918068|0.9582014873370726|0.966152749146391|0.9639237969574115|0.9574242794475278|0.21656792213288192|0.07071722247601644|15|200|1|0.9486050265160249|0.3197188598203827|0.10400429991937651|0.9670278994696795|0.9528708247211222|0.952094004218138|{'n_estimators': 200, 'n_jobs': 8, 'verbose': 10, 'max_depth': 15}|"Index(['Design-ModifiedCyclomaticComplexity',
+       'Code Style-CommentDefaultAccessModifier', 'Code Style-DefaultPackage',
+       'Error Prone-AvoidLiteralsInIfCondition', 'Code Style-OnlyOneReturn',
+       'Documentation-CommentSize', 'Documentation-CommentRequired',
+       'Performance-AvoidInstantiatingObjectsInLoops',
+       'Code Style-ControlStatementBraces', 'Code Style-LongVariable',
+       ...
+       'f29', 'f30', 'f31', 'f32', 'f33', 'f34', 'f35', 'f36', 'f37', 'f38'],
+      dtype='object', length=104)"
+0.9331852954738091|0.7726197214541806|0.6264483823317587|0.8530285506950586|0.9150455635896133|0.910403282567351|0.8480172595736698|0.15028260843366234|0.07125116423470972|10|200|1|0.8338021673968181|0.48691917219836|0.24670787422735824|0.8673276458381369|0.8558851174228508|0.8519517646811522|{'n_estimators': 200, 'n_jobs': 8, 'verbose': 10, 'max_depth': 10}|"Index(['Design-ModifiedCyclomaticComplexity',
+       'Code Style-CommentDefaultAccessModifier', 'Code Style-DefaultPackage',
+       'Error Prone-AvoidLiteralsInIfCondition', 'Code Style-OnlyOneReturn',
+       'Documentation-CommentSize', 'Documentation-CommentRequired',
+       'Performance-AvoidInstantiatingObjectsInLoops',
+       'Code Style-ControlStatementBraces', 'Code Style-LongVariable',
+       ...
+       'f29', 'f30', 'f31', 'f32', 'f33', 'f34', 'f35', 'f36', 'f37', 'f38'],
+      dtype='object', length=104)"
+0.8157791361407591|0.7543910448363018|0.6122567476264762|0.7174948312309801|0.8299216565023274|0.8176808210118954|0.7216716636532167|0.1114982103289586|0.06779378000417449|5|200|1|0.7270463454000461|0.6385786802030456|0.43644181671593657|0.7121512566290062|0.7166862390201351|0.7017524191231598|{'n_estimators': 200, 'n_jobs': 8, 'verbose': 10, 'max_depth': 5}|"Index(['Design-ModifiedCyclomaticComplexity',
+       'Code Style-CommentDefaultAccessModifier', 'Code Style-DefaultPackage',
+       'Error Prone-AvoidLiteralsInIfCondition', 'Code Style-OnlyOneReturn',
+       'Documentation-CommentSize', 'Documentation-CommentRequired',
+       'Performance-AvoidInstantiatingObjectsInLoops',
+       'Code Style-ControlStatementBraces', 'Code Style-LongVariable',
+       ...
+       'f29', 'f30', 'f31', 'f32', 'f33', 'f34', 'f35', 'f36', 'f37', 'f38'],
+      dtype='object', length=104)"

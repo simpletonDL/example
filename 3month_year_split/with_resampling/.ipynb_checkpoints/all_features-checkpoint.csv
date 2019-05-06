@@ -1,0 +1,1 @@
+'train_auc'|'test_auc'|'valid_auc'|'train_fm_1'|'test_fm_1'|'valid_fm_1'|'train_fm_0'|'test_fm_0'|'valid_fm_0'|'max_depth'|'n_estimators'|'min_samples_leaf'|'train_rec0'|'test_rec0'|'valid_rec0'|'train_rec1'|'test_rec1'|'valid_rec1'|'params'|'features'

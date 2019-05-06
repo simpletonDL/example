@@ -1,0 +1,64 @@
+'train_auc' |'test_auc'  |'valid_auc' |'max_depth'|'n_estimators'|'min_samples_leaf'|'train_rec0'|'test_rec0'|'valid_rec0'|'train_rec1'|'test_rec1'|'valid_rec1'|'params'|'features'
+0.999999999945697|0.6514156519728591|0.5811165740580994||200|1|0.9999939831890301|0.16566838246763377|0.04319035382486657|1.0|0.9635986143293033|0.950114820703056|{'n_estimators': 200, 'n_jobs': 8, 'verbose': 10, 'max_depth': None}|"Index(['Design-ModifiedCyclomaticComplexity',
+       'Code Style-CommentDefaultAccessModifier', 'Code Style-DefaultPackage',
+       'Error Prone-AvoidLiteralsInIfCondition', 'Code Style-OnlyOneReturn',
+       'Documentation-CommentSize', 'Documentation-CommentRequired',
+       'Performance-AvoidInstantiatingObjectsInLoops',
+       'Code Style-ControlStatementBraces', 'Code Style-LongVariable',
+       ...
+       'f29', 'f30', 'f31', 'f32', 'f33', 'f34', 'f35', 'f36', 'f37', 'f38'],
+      dtype='object', length=104)"
+0.9999873754706828|0.675054195651867|0.5750187963389828|30|200|1|0.9990734111106432|0.1634534394010295|0.05099822099229097|0.9976835277766078|0.9645116887288078|0.9469116174998528|{'n_estimators': 200, 'n_jobs': 8, 'verbose': 10, 'max_depth': 30}|"Index(['Design-ModifiedCyclomaticComplexity',
+       'Code Style-CommentDefaultAccessModifier', 'Code Style-DefaultPackage',
+       'Error Prone-AvoidLiteralsInIfCondition', 'Code Style-OnlyOneReturn',
+       'Documentation-CommentSize', 'Documentation-CommentRequired',
+       'Performance-AvoidInstantiatingObjectsInLoops',
+       'Code Style-ControlStatementBraces', 'Code Style-LongVariable',
+       ...
+       'f29', 'f30', 'f31', 'f32', 'f33', 'f34', 'f35', 'f36', 'f37', 'f38'],
+      dtype='object', length=104)"
+0.9994071499680675|0.6401206984475336|0.593171757388122|25|200|1|0.9888568660838383|0.17363905786928716|0.0514923898003558|0.9880084957370894|0.9582509348688889|0.9417770711888359|{'n_estimators': 200, 'n_jobs': 8, 'verbose': 10, 'max_depth': 25}|"Index(['Design-ModifiedCyclomaticComplexity',
+       'Code Style-CommentDefaultAccessModifier', 'Code Style-DefaultPackage',
+       'Error Prone-AvoidLiteralsInIfCondition', 'Code Style-OnlyOneReturn',
+       'Documentation-CommentSize', 'Documentation-CommentRequired',
+       'Performance-AvoidInstantiatingObjectsInLoops',
+       'Code Style-ControlStatementBraces', 'Code Style-LongVariable',
+       ...
+       'f29', 'f30', 'f31', 'f32', 'f33', 'f34', 'f35', 'f36', 'f37', 'f38'],
+      dtype='object', length=104)"
+0.9923454306493745|0.617264196887906|0.5871895406213976|20|200|1|0.9421964970126534|0.2010138823896428|0.08005534690650326|0.9658245136912533|0.934432999151162|0.9165047400341518|{'n_estimators': 200, 'n_jobs': 8, 'verbose': 10, 'max_depth': 20}|"Index(['Design-ModifiedCyclomaticComplexity',
+       'Code Style-CommentDefaultAccessModifier', 'Code Style-DefaultPackage',
+       'Error Prone-AvoidLiteralsInIfCondition', 'Code Style-OnlyOneReturn',
+       'Documentation-CommentSize', 'Documentation-CommentRequired',
+       'Performance-AvoidInstantiatingObjectsInLoops',
+       'Code Style-ControlStatementBraces', 'Code Style-LongVariable',
+       ...
+       'f29', 'f30', 'f31', 'f32', 'f33', 'f34', 'f35', 'f36', 'f37', 'f38'],
+      dtype='object', length=104)"
+0.945150810552052|0.5755604284170855|0.6048460923279243|15|200|1|0.8264631380075932|0.27891124629542974|0.1574421822494564|0.8996756938887251|0.8682167519328271|0.8524642289348172|{'n_estimators': 200, 'n_jobs': 8, 'verbose': 10, 'max_depth': 15}|"Index(['Design-ModifiedCyclomaticComplexity',
+       'Code Style-CommentDefaultAccessModifier', 'Code Style-DefaultPackage',
+       'Error Prone-AvoidLiteralsInIfCondition', 'Code Style-OnlyOneReturn',
+       'Documentation-CommentSize', 'Documentation-CommentRequired',
+       'Performance-AvoidInstantiatingObjectsInLoops',
+       'Code Style-ControlStatementBraces', 'Code Style-LongVariable',
+       ...
+       'f29', 'f30', 'f31', 'f32', 'f33', 'f34', 'f35', 'f36', 'f37', 'f38'],
+      dtype='object', length=104)"
+0.837127010797905|0.5503816184164272|0.6113190542495335|10|200|1|0.7147249414865133|0.3738574325378256|0.3342557817750544|0.7704887455550808|0.7541742182660763|0.7587116528292999|{'n_estimators': 200, 'n_jobs': 8, 'verbose': 10, 'max_depth': 10}|"Index(['Design-ModifiedCyclomaticComplexity',
+       'Code Style-CommentDefaultAccessModifier', 'Code Style-DefaultPackage',
+       'Error Prone-AvoidLiteralsInIfCondition', 'Code Style-OnlyOneReturn',
+       'Documentation-CommentSize', 'Documentation-CommentRequired',
+       'Performance-AvoidInstantiatingObjectsInLoops',
+       'Code Style-ControlStatementBraces', 'Code Style-LongVariable',
+       ...
+       'f29', 'f30', 'f31', 'f32', 'f33', 'f34', 'f35', 'f36', 'f37', 'f38'],
+      dtype='object', length=104)"
+0.7412752530502232|0.5671219510084697|0.5937193533428549|5|200|1|0.702083621638859|0.4699422866947434|0.5325163075706661|0.6222405400689527|0.628617311707082|0.6211152328799388|{'n_estimators': 200, 'n_jobs': 8, 'verbose': 10, 'max_depth': 5}|"Index(['Design-ModifiedCyclomaticComplexity',
+       'Code Style-CommentDefaultAccessModifier', 'Code Style-DefaultPackage',
+       'Error Prone-AvoidLiteralsInIfCondition', 'Code Style-OnlyOneReturn',
+       'Documentation-CommentSize', 'Documentation-CommentRequired',
+       'Performance-AvoidInstantiatingObjectsInLoops',
+       'Code Style-ControlStatementBraces', 'Code Style-LongVariable',
+       ...
+       'f29', 'f30', 'f31', 'f32', 'f33', 'f34', 'f35', 'f36', 'f37', 'f38'],
+      dtype='object', length=104)"
